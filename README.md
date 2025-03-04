@@ -1,8 +1,10 @@
 🚀 HealthWise: AI-Powered Proactive Healthcare
 
 PPT:
-https://drive.google.com/file/d/1RM0Ob5jzx3-o7yLvqWjOxbJdWBHXe05c/view?usp=share_link
+[https://drive.google.com/file/d/1RM0Ob5jzx3-o7yLvqWjOxbJdWBHXe05c/view?usp=share_link](https://drive.google.com/file/d/1fcJ3rt3SVRU0YR48mOUz5avL7U_gkFTN/view?usp=share_link)
 
+Demo Videos:
+https://drive.google.com/drive/folders/1fHyzOa6GiDMU6iFtPTIF0WzRh_sEyxGC?usp=share_link
 📌 Overview
 
 HealthWise is a next-generation, AI-driven Remote Patient Monitoring System (RPM) designed to bridge the gaps in modern healthcare by shifting from reactive to proactive patient care. Unlike traditional healthcare apps that rely on doctor visits and symptom-based consultations, HealthWise continuously monitors vitals, predicts health risks, and automates emergency interventions to prevent crises before they occur.
