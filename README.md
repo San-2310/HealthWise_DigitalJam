@@ -1,10 +1,7 @@
 🚀 HealthWise: AI-Powered Proactive Healthcare
 
-PPT:
-[https://drive.google.com/file/d/1RM0Ob5jzx3-o7yLvqWjOxbJdWBHXe05c/view?usp=share_link](https://drive.google.com/file/d/1fcJ3rt3SVRU0YR48mOUz5avL7U_gkFTN/view?usp=share_link)
+[Our Submission]([https://drive.google.com/file/d/1fcJ3rt3SVRU0YR48mOUz5avL7U_gkFTN/view?usp=share_link](https://drive.google.com/drive/folders/1RADSdL2jA48nVqapkJM1BjwfBYUsn9XM?usp=share_link)
 
-Demo Videos:
-https://drive.google.com/drive/folders/1fHyzOa6GiDMU6iFtPTIF0WzRh_sEyxGC?usp=share_link
 
 📌 Overview
 
