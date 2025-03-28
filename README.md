@@ -3,7 +3,6 @@
 Our Submission (PPT + Pitch + Demo Videos):
 [https://drive.google.com/file/d/1fcJ3rt3SVRU0YR48mOUz5avL7U_gkFTN/view?usp=share_link](https://drive.google.com/drive/folders/1RADSdL2jA48nVqapkJM1BjwfBYUsn9XM?usp=share_link)
 
-
 📌 Overview
 
 HealthWise is a next-generation, AI-driven Remote Patient Monitoring System (RPM) designed to bridge the gaps in modern healthcare by shifting from reactive to proactive patient care. Unlike traditional healthcare apps that rely on doctor visits and symptom-based consultations, HealthWise continuously monitors vitals, predicts health risks, and automates emergency interventions to prevent crises before they occur.
